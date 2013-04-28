@@ -1,10 +1,10 @@
 function [] = main()
-%                 - Z A V R S N I   P R O J E K A T -
+%                 - FINAL PROJECT -
 %                   
-%             DETEKCIJA LICA PRIMENOM VIOLA-JONES DETEKTORA
+%            FACE DETECTION USING VIOLA-JONES DETECTOR
 %
-%       Nenad Mancevic, Jul 2012.
-%       Elektronski fakultet Nis (c) 2012.
+%       Nenad Mancevic, July 2012.
+%       The Faculty of Electronic Engineering Nis (c) 2012.
 %-------------------------------------------------------------------------
 
 clear all
