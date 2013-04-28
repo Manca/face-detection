@@ -122,5 +122,5 @@ for y=2:1:m-18
         end
       end
 end
-fprintf('Ukupno prolaza: %d\n', count);
+fprintf('Total number of iterations: %d\n', count);
 end
