@@ -2,7 +2,7 @@ Face Detection using Viola-Jones detector
 ==============
 
 To use the application you should have GML AdaBoost Toolbox[1] installed on your machine. 
-The main module is function main and it starts the application. 
+The main module is function main which is used to start the application. 
 
 The first thing to do before running the application is to adjust the line:
 
