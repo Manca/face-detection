@@ -13,7 +13,7 @@ with your GML AdaBoost installation path.
 The application has two modes: "training" and "running". The first one allows you to train your own classifiers using
 the set of positive (images with faces only) and negative (images that do not contain face) samples.
 
-For this application I used MIT set of training samples[2]. Positive samples should be in "mit\train\faces" directory,
+For this application I used MIT set of training samples[2]. Positive samples should be in "mit\train\face" directory,
 while the negative ones are expected in "mit\train\non-face".
 
 When the training is finished you'll have 4 new files: "posFeatures.mat", "negFeatures.mat", "learners.mat" and 
