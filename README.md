@@ -34,4 +34,4 @@ together if you want to get the one that's the most precise.
 
 [1] http://graphics.cs.msu.ru/ru/science/research/machinelearning/adaboosttoolbox
 
-[2] http://cbcl.mit.edu/projects/cbcl/software-datasets/FaceData2.html
+[2] http://cbcl.mit.edu/software-datasets/FaceData2.html
